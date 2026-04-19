@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ac22a7c0-676e-4cae-a054-50cb7e596f41",
+  "export_job_id": "c59c0fc9-dadc-4859-98a9-c5ac93c7e55b",
   "id_short": 183147,
-  "published_at": "2026-04-11T07:04:57Z",
+  "published_at": "2026-04-19T19:27:57Z",
   "repo_name": "all-restaurants-in-roanoke-metro-virginia-us-sample-183147",
   "sample_asset_name": "beamstation_183147_restaurants-us-roanokeva_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/183147/beamstation_183147_restaurants-us-roanokeva_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "8c5381e3f21d80bdebaea7aca8322eebbee632850fdff39ecb06759acfb1e78d",
-  "sample_size_bytes": 108781,
-  "total_records": 271
+  "sample_records": 26,
+  "sample_sha256": "e85361a02d98b775ab3c918347bfc39ea4af141ecadeec607e9ad04f1aece99d",
+  "sample_size_bytes": 108747,
+  "total_records": 269
 }
